@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+google-genai
+pydantic
+streamlit
+requests
+python-docx
+reportlab
+pytest
+httpx
+python-multipart
